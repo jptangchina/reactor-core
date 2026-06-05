@@ -1,5 +1,5 @@
 [[about-doc]]
-= About the Documentation
+= 关于本文档
 
 :linkattrs:
 
@@ -10,7 +10,7 @@ need to read this guide in a linear fashion. Each piece stands on its own, thoug
 often refer to other pieces.
 
 [[latest-version-copyright-notice]]
-== Latest Version & Copyright Notice
+== 最新版本 & 版权说明
 
 The Reactor reference guide is available as HTML documents. The latest copy is available
 at https://projectreactor.io/docs/core/release/reference/index.html
