@@ -5,5 +5,3 @@ files:
     translation: /docs/modules/ROOT-%two_letters_code%/pages/advancedFeatures/%original_file_name%
   - source: /docs/modules/ROOT/pages/coreFeatures/*.adoc
     translation: /docs/modules/ROOT-%two_letters_code%/pages/coreFeatures/%original_file_name%
-  - source: /docs/modules/ROOT/*.adoc
-    translation: /docs/modules/ROOT-%two_letters_code%/%original_file_name%
