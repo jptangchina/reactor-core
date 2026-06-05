@@ -1,3 +1,7 @@
 files:
-  - source: /docs
-    translation: /docs_translated/%locale_with_underscore%/%original_file_name%
+  - source: /docs/modules/ROOT/pages/*.adoc
+    translation: /docs/modules/ROOT-%two_letters_code%/pages/%original_file_name%
+  - source: /docs/modules/ROOT/pages/advancedFeatures/*.adoc
+    translation: /docs/modules/ROOT-%two_letters_code%/pages/advancedFeatures/%original_file_name%
+  - source: /docs/modules/ROOT/pages/coreFeatures/*.adoc
+    translation: /docs/modules/ROOT-%two_letters_code%/pages/coreFeatures/%original_file_name%
